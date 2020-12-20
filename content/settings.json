@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-final-realmente-transparente.png",
   "store_id": 1204,
-  "description": "Tudo para o conforto, design e estilo do seu pet. Temos comedouros, camas para cachorro e gato, decoração entre outros. Entregamos em todo o Brasil.",
+  "description": "Tudo para o conforto e design do seu pet.",
   "large_icon": "/img/uploads/logo-final-realmente-transparente.png"
 }
