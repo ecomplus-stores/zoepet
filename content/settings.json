@@ -1,23 +1,23 @@
 {
-  "store_id": 1204,
-  "name": "zoepet",
   "domain": "zoepet.netlify.app",
-  "short_name": "zoepet",
-  "description": "zoepet",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-baby"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-final-realmente-transparente.png",
+  "name": "Zoe.Pet",
+  "short_name": "Zoe.Pet",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-final-realmente-transparente.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-final-realmente-transparente.png",
+  "store_id": 1204,
+  "description": "Tudo para o conforto, design e estilo do seu pet. Temos comedouros, camas para cachorro e gato, decoração entre outros. Entregamos em todo o Brasil.",
+  "large_icon": "/img/uploads/logo-final-realmente-transparente.png"
 }
