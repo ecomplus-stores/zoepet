@@ -1,7 +1,7 @@
 {
   "domain": "zoepet.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#b677d5",
   "theme": {
     "bootswatch": "minty",
     "custom": "clean-white"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-final-realmente-transparente.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#050506",
   "icon": "/img/uploads/logo-final-realmente-transparente.png",
   "store_id": 1204,
   "description": "Tudo para o conforto e design do seu pet.",
