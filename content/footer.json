@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/compra-segura.jpg"
     }
   ],
   "payment_methods": {
@@ -35,14 +38,14 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
-    "santander": true,
+    "bradesco": false,
+    "santander": false,
     "mastercard": true,
     "paypal": true,
     "citibank": false,
     "mais": false,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
