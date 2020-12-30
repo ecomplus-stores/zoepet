@@ -14,7 +14,7 @@
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
