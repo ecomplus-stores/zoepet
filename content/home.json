@@ -21,9 +21,9 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2020-12-30T00:57:56.116Z",
-      "end": "2020-12-30T00:57:56.163Z",
+      "max_hours": 48,
+      "start": "2020-12-30T19:29:26.768Z",
+      "end": "2021-01-01T02:59:00.000Z",
       "offers": []
     },
     {
@@ -32,7 +32,7 @@
       "collection_id": null,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "page-title",
@@ -41,7 +41,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/london-lovers-7-.png",
+      "img": "/img/uploads/copia-de-banner-cupcake-2.png",
       "link": "https://zoe.pet/produtos/cama-xicara-woof-classic-london-lovers/",
       "mobile_img": "/img/uploads/london-lovers-9-.png",
       "alt": "Cama Xícara Woof Classic"
