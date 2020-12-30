@@ -22,9 +22,11 @@
     {
       "type": "offers-timer",
       "max_hours": 48,
-      "start": "2020-12-30T19:29:26.768Z",
+      "start": "2020-12-30T19:56:45.657Z",
       "end": "2021-01-01T02:59:00.000Z",
-      "offers": []
+      "offers": [
+        "5fec9f7469274c73fcef68e1"
+      ]
     },
     {
       "type": "collection-shelf",
