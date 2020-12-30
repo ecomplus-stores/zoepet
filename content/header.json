@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Aproveite nossas promoções!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -10,7 +10,7 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "Blog Zoe.Pet",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
