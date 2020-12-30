@@ -18,7 +18,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cachorro?Cachorro",
+      "/gato?Gato"
+    ],
     "random": 6,
     "full_width": false
   },
