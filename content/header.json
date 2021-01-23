@@ -4,16 +4,7 @@
     "link": "/promotion"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Blog Zoe.Pet",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },
