@@ -1,32 +1,15 @@
 {
-  "meta_title": "Zoe.Pet",
-  "meta_description": "Tudo para o conforto, design e estilo do seu pet.",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/copia-de-copia-de-banner-cupcake-2.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 48,
-      "start": "2020-12-30T19:56:45.657Z",
-      "end": "2021-01-01T02:59:00.000Z",
-      "offers": [
-        "5fec9f7469274c73fcef68e1"
-      ]
     },
     {
       "type": "collection-shelf",
@@ -38,15 +21,15 @@
     },
     {
       "type": "page-title",
-      "title": "Zoe.Pet",
-      "description": "Tudo para o conforto, design e estilo do seu pet. Temos comedouros, camas para cachorro e gato, decoração entre outros. Entregamos em todo o Brasil."
+      "title": "",
+      "description": ""
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/copia-de-banner-cupcake-2.png",
-      "link": "https://zoe.pet/produtos/cama-xicara-woof-classic-london-lovers/",
-      "mobile_img": "/img/uploads/london-lovers-9-.png",
-      "alt": "Cama Xícara Woof Classic"
+      "img": "/img/uploads/og-image.png",
+      "link": "",
+      "mobile_img": "",
+      "alt": ""
     }
   ]
 }
