@@ -9,19 +9,7 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
+      "type": "product-block",
       "enabled": true
     }
   ]
