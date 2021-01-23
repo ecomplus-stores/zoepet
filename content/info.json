@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entrega rápida para todo o Brasil"
+    "text": ""
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 06X sem juros"
+    "text": ""
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Frete Grátis*"
+    "text": ""
   }
 }
