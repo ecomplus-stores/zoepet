@@ -7,17 +7,17 @@
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-final-realmente-transparente.png",
+  "logo": "/img/uploads/icon.png",
   "name": "Zoe.Pet",
   "short_name": "Zoe.Pet",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo-final-realmente-transparente.png",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#050506",
-  "icon": "/img/uploads/logo-final-realmente-transparente.png",
+  "icon": "/img/uploads/icon.png",
   "store_id": 1204,
-  "description": "Tudo para o conforto e design do seu pet.",
-  "large_icon": "/img/uploads/logo-final-realmente-transparente.png"
+  "description": "Teste",
+  "large_icon": "/img/uploads/icon.png"
 }
