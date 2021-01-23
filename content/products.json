@@ -3,14 +3,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "product-block",
-      "enabled": true
-    },
-    {
-      "type": "product-block",
-      "enabled": true
     }
   ]
 }
