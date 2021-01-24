@@ -24,9 +24,6 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    },
-    {
-      "src": "/img/uploads/compra-segura.jpg"
     }
   ],
   "payment_methods": {
