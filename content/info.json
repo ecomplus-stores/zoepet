@@ -1,10 +1,10 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "exchange": {
@@ -12,7 +12,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
