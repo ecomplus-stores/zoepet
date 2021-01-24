@@ -6,13 +6,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
