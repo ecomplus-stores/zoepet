@@ -9,12 +9,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/cachorro?Cachorro",
-      "/gato?Gato"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
-  "search_input": true
+  "search_input": false
 }
