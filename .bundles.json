@@ -1,50 +1,26 @@
 {
   "assetsByChunkName": {
-    "vendors~app-account~app-checkout~app-confirmation~app-order": [
-      "chunk.7ad3f341bb887a02f34d.js",
-      "chunk.7ad3f341bb887a02f34d.js.map"
-    ],
-    "vendors~app-account~app-checkout": [
-      "chunk.d3b8bcfb609385071d62.js",
-      "chunk.d3b8bcfb609385071d62.js.map"
-    ],
-    "vendors~app-cart~app-checkout": [
-      "chunk.585c8dc0dcb09bf5652a.js",
-      "chunk.585c8dc0dcb09bf5652a.js.map"
-    ],
+    "vendors~app-account~app-confirmation~app-order": "chunk.05c144c9be7f86afde98.js",
+    "vendors~app-account~app-checkout": "chunk.aa2e99140c53cf650fb0.js",
+    "vendors~app-cart~app-checkout": "chunk.95d203dfbb1739188c22.js",
     "admin": [
-      "admin.aec6ed795d8ae5a3b976.js",
-      "admin.aec6ed795d8ae5a3b976.js.map"
+      "admin.2ec574fddc1d5a5b5168.js",
+      "admin.2ec574fddc1d5a5b5168.js.map"
     ],
-    "app-checkout": [
-      "chunk.d786d55e5261bc19dd80.js",
-      "chunk.d786d55e5261bc19dd80.js.map"
-    ],
+    "app-account": "chunk.3167de69ddb1a8fe9c3d.js",
+    "app-confirmation": "chunk.2d6e320cebfcdef2968d.js",
+    "app-order": "chunk.dc3156f5519fb7d5a602.js",
     "checkout": [
-      "checkout.783a3592a5913325e732.js",
-      "checkout.783a3592a5913325e732.js.map"
+      "checkout.1c7165d721e016c9c638.js",
+      "checkout.1c7165d721e016c9c638.js.map"
     ],
     "storefront": [
-      "storefront.33ffa8c4ec55c9bde09e.css",
-      "storefront.f35d36150e3d118cc393.js",
-      "storefront.33ffa8c4ec55c9bde09e.css.map",
-      "storefront.f35d36150e3d118cc393.js.map"
+      "storefront.43a13db3b98380bbb3c4.css",
+      "storefront.e900c199bce05c93466d.js",
+      "storefront.43a13db3b98380bbb3c4.css.map",
+      "storefront.e900c199bce05c93466d.js.map"
     ],
-    "vendors~app-account": [
-      "chunk.e760810b9b655cafadae.js",
-      "chunk.e760810b9b655cafadae.js.map"
-    ],
-    "vendors~app-cart": [
-      "chunk.32f07e90d69f0cce966a.js",
-      "chunk.32f07e90d69f0cce966a.js.map"
-    ],
-    "vendors~app-confirmation": [
-      "chunk.2ca1717d6bc89e26892a.js",
-      "chunk.2ca1717d6bc89e26892a.js.map"
-    ],
-    "vendors~app-order": [
-      "chunk.ecdf224eb73cf682744a.js",
-      "chunk.ecdf224eb73cf682744a.js.map"
-    ]
+    "vendors~app-cart": "chunk.ea8491aae2a2e75eb117.js",
+    "vendors~app-checkout": "chunk.2ca576480c5c68a5e244.js"
   }
 }
